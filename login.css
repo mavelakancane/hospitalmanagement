@@ -1,0 +1,65 @@
+
+
+.image {
+	
+	
+	text-align: center;
+	margin: 24px 0 12px 0;
+	position: relative;
+	
+	
+}
+
+img.avatar {
+	
+	width: 40%;
+	border-radius: 50;
+	
+	
+	
+}
+
+.container {
+	
+	
+	
+	padding: 16px;
+	margin: 24px 0 12px 0;
+	text-align: center;
+	
+	
+	
+}
+
+.modal {
+	
+	//display: none;
+	position: fixed;
+	z-index: 1;
+	left: 0;
+	top: 0;
+	width: 80%;
+	height: 80%;
+	overflow: auto;
+	background-color: light-gray;
+	padding-top: 60px;
+	
+	
+}
+body{
+	
+	background-color: #567;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
